@@ -7,12 +7,16 @@ The Data is exclusively reserved for the participants of the WNUT-2020 Task 2 an
 Please cite the following paper whenever the Data is used to produce published results:
 
 	@inproceedings{covid19tweet,
-		title = {{WNUT-2020 Task 2: Identification of Informative COVID-19 English Tweets}},
-		author = {Dat Quoc Nguyen and Thanh Vu and Afshin Rahimi and Mai Hoang Dao and Linh The Nguyen and Long Doan},
+		title.    = {{WNUT-2020 Task 2: Identification of Informative COVID-19 English Tweets}},
+		author    = {Dat Quoc Nguyen and Thanh Vu and Afshin Rahimi and Mai Hoang Dao and Linh The Nguyen and Long Doan},
 		booktitle = {Proceedings of the 6th Workshop on Noisy User-generated Text},
-		year = {2020}
+		year      = {2020},
+		url       = {https://www.aclweb.org/anthology/2020.wnut-1.41},
+    	pages     = {314--318}
 	}
 
+
+**Updated 14/11/2020**: The training, validation and test sets are zipped into a password-protected file `WNUT2020Task2Data.zip` to maintain Twitter's Terms of Service. Please feel free to contact the task organizers at wnut.sharedtask.covid19tweet@gmail.com to get the password to unzip the file `WNUT2020Task2Data.zip`.
 
 #### Copyright (c) 2020 VinAI Research
 
