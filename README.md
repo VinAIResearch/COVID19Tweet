@@ -4,14 +4,15 @@ By downloading the Data, you undertake to participate fully in the [WNUT-2020](h
 
 The Data is exclusively reserved for the participants of the WNUT-2020 Task 2 and is not to be used freely. The Data  may be distributed upon request by contacting the task organizers. After WNUT-2020, the Data will be publicly available for non-commercial & non-profit research purposes only.
 
-Please cite the following paper whenever the Data is used to produce published results:
+Please cite the [following paper](https://aclanthology.org/2020.wnut-1.41) whenever the Data is used to produce published results:
 
 	@inproceedings{covid19tweet,
 		title     = {{WNUT-2020 Task 2: Identification of Informative COVID-19 English Tweets}},
 		author    = {Dat Quoc Nguyen and Thanh Vu and Afshin Rahimi and Mai Hoang Dao and Linh The Nguyen and Long Doan},
 		booktitle = {Proceedings of the 6th Workshop on Noisy User-generated Text},
 		year      = {2020},
-		pages     = {314--318}
+		pages     = {314--318},
+		url       = {https://aclanthology.org/2020.wnut-1.41}
 	}
 
 
