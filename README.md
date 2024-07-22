@@ -15,8 +15,15 @@ Please cite the [following paper](https://aclanthology.org/2020.wnut-1.41) whene
 		url       = {https://aclanthology.org/2020.wnut-1.41}
 	}
 
+By downloading this dataset, USER agrees:
+- to use the dataset for research or educational purposes only.
+- to not distribute the dataset or part of the dataset in any original or modified form.
+- and to cite our paper whenever the dataset is used to help produce published results.
 
-#### Copyright (c) 2020 VinAI Research
+
+### License 
+	
+	Copyright (c) 2020 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
